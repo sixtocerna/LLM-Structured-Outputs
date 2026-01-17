@@ -1,0 +1,1 @@
+Notebook implementing the procedure proposed in "Efficient Guided Generation for Large Language Models" (https://arxiv.org/pdf/2307.09702) with Gemma3-1B.
